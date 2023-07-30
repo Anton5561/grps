@@ -1,4 +1,7 @@
-C:\fi\2023\grpc\grpss\target\generated-sources\protobuf\java\org\example\grpc\GreetingServiceOuterClass.java
-C:\fi\2023\grpc\grpss\src\main\java\org\example\App.java
-C:\fi\2023\grpc\grpss\src\main\java\org\example\GreetingServiceImpl.java
-C:\fi\2023\grpc\grpss\target\generated-sources\protobuf\grpc-java\org\example\grpc\GreetingServiceGrpc.java
+C:\fi\2023\gRpc\grpc\target\generated-sources\protobuf\grpc-java\org\example\grpc\KubikFunGrpc.java
+C:\fi\2023\gRpc\grpc\src\main\java\org\example\App.java
+C:\fi\2023\gRpc\grpc\target\generated-sources\protobuf\java\org\example\grpc\GreetingServiceOuterClass.java
+C:\fi\2023\gRpc\grpc\target\generated-sources\protobuf\java\org\example\grpc\Kubik.java
+C:\fi\2023\gRpc\grpc\target\generated-sources\protobuf\grpc-java\org\example\grpc\GreetingServiceGrpc.java
+C:\fi\2023\gRpc\grpc\src\main\java\org\example\GreetingServiceImpl.java
+C:\fi\2023\gRpc\grpc\src\main\java\org\example\KubikImpl.java
